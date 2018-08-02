@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://alun.pro/"/>
-  <updated>2018-08-02T10:10:24.003Z</updated>
+  <updated>2018-08-02T11:17:09.398Z</updated>
   <id>http://alun.pro/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://alun.pro/2018/08/02/hexo-sometrouble-day2/"/>
     <id>http://alun.pro/2018/08/02/hexo-sometrouble-day2/</id>
     <published>2018-08-02T09:38:52.000Z</published>
-    <updated>2018-08-02T10:10:24.003Z</updated>
+    <updated>2018-08-02T11:17:09.398Z</updated>
     
     <content type="html"><![CDATA[<h2 id="有遇到问题了"><a href="#有遇到问题了" class="headerlink" title="有遇到问题了"></a>有遇到问题了</h2><p>用的这个hexo主题真的很喜欢，并且找了一张自认为很好看的图片替换了上去，一切都让我感觉美美的，但是在编辑过程中缺遇到了几个问题。</p><h1 id="头像图片问题"><a href="#头像图片问题" class="headerlink" title="头像图片问题"></a>头像图片问题</h1><p>我跟换了头像，在主题的config下面修改了不行，跑到主目录下面的config下面新增avatar字段，并将图片配置上去，发现成功了，欣喜万分。但是却发现只有主页生效，切换到About页面或文章页面的时候，却看不到头像图片。纠结。</p><h1 id="About导航显示问题"><a href="#About导航显示问题" class="headerlink" title="About导航显示问题"></a>About导航显示问题</h1><p>新增了About导航，但是在页面上却展示的Sobre（应该是西班牙文吧？），翻遍代码都不知道是什么原因，一开始以为是语言的问题，但是语言设置也没错啊。</p><h1 id="网页Icon显示问题"><a href="#网页Icon显示问题" class="headerlink" title="网页Icon显示问题"></a>网页Icon显示问题</h1><p>修改了网页Icon的展示，但是却无法正确展示。</p><p>痛苦，感觉就像是一锅漂亮的粥，下去了三颗老鼠屎。</p><p>还有就是主页的社交信息也无法展示。这个也不知道是什么原因。</p>]]></content>
     
@@ -34,8 +34,14 @@
     
     </summary>
     
+      <category term="Hexo" scheme="http://alun.pro/categories/Hexo/"/>
     
-      <category term="log;hexo;learning" scheme="http://alun.pro/tags/log-hexo-learning/"/>
+    
+      <category term="log" scheme="http://alun.pro/tags/log/"/>
+    
+      <category term="hexo" scheme="http://alun.pro/tags/hexo/"/>
+    
+      <category term="learning" scheme="http://alun.pro/tags/learning/"/>
     
   </entry>
   
@@ -44,7 +50,7 @@
     <link href="http://alun.pro/2018/08/01/First%20daily/"/>
     <id>http://alun.pro/2018/08/01/First daily/</id>
     <published>2018-08-01T10:44:02.000Z</published>
-    <updated>2018-08-02T09:40:32.986Z</updated>
+    <updated>2018-08-02T11:17:16.145Z</updated>
     
     <content type="html"><![CDATA[<p>经过一天的奋斗，我又重新开了我的个人博客。从寻找合适的虚拟主机到在Google Blogger上创建，然后又看到GItHub+Hexo的自由个性化，我最终就选择了Github+Hexo+阿里云域名的方案来自建。</p><p>我没有太多的编程经验，但是我一直很艳羡那些能够自己动手创造代码的人，我觉得那是一个从想法到落地无缝的淋漓尽致的过程，也可能是我自己天分不足或者是懒，我尝试过Java，Python，但是最后都是无功而终，这可能就是所谓的初体验不好吧，我无法培养出自己代码的兴趣。</p><p>这次选择GItHub的方案也是出于对工程师的艳羡情怀，我想尝试一下这种极客的方式来创建博客，并通过markdown进行日志。我觉得一定会很Cool。</p><p>但是过程真的是曲折的，我从创建本地的Hexo服务开始到Clone到GItHub的过程遇到了各种问题，不断的百度去解决，真的很感谢那些愿意分享的人，一些很细枝末节的问题都有人把经验分享出来，我觉得这些人促进了互联网人才的发展，让更多的对互联网和代码感兴趣的人能够找到解决方案并坚持自己的学习。</p><p>经过几次删除重试，转换思路后，我的的各站终于创建了，并且绑定了我的个人域名：alun.pro 我认为是一个很Cool的域名。</p><p>这个博客，我希望我能坚持下去，我的确会遇到这种困境，我想写东西分享东西，但是微博？朋友圈？知乎？Pmcaff？他们都太零散了，而且在这些地方输出更多的是为了获得认可，所以导致很多内容我是为了别人而写，而不是为了自己而写，所以这次，我想为了自己而写。</p>]]></content>
     
