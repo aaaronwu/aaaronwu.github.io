@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://alun.pro/"/>
-  <updated>2018-08-02T11:39:51.092Z</updated>
+  <updated>2018-08-03T03:32:42.729Z</updated>
   <id>http://alun.pro/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>昨天的问题解决了</title>
+    <link href="http://alun.pro/2018/08/03/problem-is-solved/"/>
+    <id>http://alun.pro/2018/08/03/problem-is-solved/</id>
+    <published>2018-08-03T03:25:13.000Z</published>
+    <updated>2018-08-03T03:32:42.729Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天的问题解决了，大部分是代码的问题。</p><ul><li>网页icon的问题：在head文件下修改文件名即可，而且我生成了一个“Lun”的Icon，瞬间高大上了。</li><li>头像的问题：修改了绝对路径，也就是前面加个个反斜杠就好了，但是为什么主页可以其他页面不行的原因也不是特别清楚。</li><li>导航文字的问题也解决了，主要是配置文件里面要对应到主题的文字文件名称即可，因为对应不上的时候，默认拿了西班牙文的语言包。</li></ul><p>问题都解决了，看起来页面就很舒服了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天的问题解决了，大部分是代码的问题。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网页icon的问题：在head文件下修改文件名即可，而且我生成了一个“Lun”的Icon，瞬间高大上了。&lt;/li&gt;
+&lt;li&gt;头像的问题：修改了绝对路径，也就是前面加个个反斜杠就好了，但是为什么主页可以其他页面
+      
+    
+    </summary>
+    
+    
+      <category term="log" scheme="http://alun.pro/tags/log/"/>
+    
+      <category term="hexo" scheme="http://alun.pro/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>就上一个日志的问题我似乎找到原因了</title>

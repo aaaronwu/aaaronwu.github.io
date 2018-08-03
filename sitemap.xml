@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://alun.pro/2018/08/03/problem-is-solved/</loc>
+    
+    <lastmod>2018-08-03T03:32:42.729Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://alun.pro/about/index.html</loc>
+    
+    <lastmod>2018-08-03T03:22:40.453Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://alun.pro/2018/08/02/findquestion/</loc>
     
     <lastmod>2018-08-02T11:39:51.092Z</lastmod>
@@ -33,13 +47,6 @@
     <loc>http://alun.pro/2018/08/02/hexo-sometrouble-day2/</loc>
     
     <lastmod>2018-08-02T11:17:09.398Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://alun.pro/about/index.html</loc>
-    
-    <lastmod>2018-08-02T08:07:31.630Z</lastmod>
     
   </url>
   
