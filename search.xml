@@ -5,8 +5,8 @@
     <url>%2F2018%2F08%2F03%2Fproblem-is-solved%2F</url>
     <content type="text"><![CDATA[昨天的问题解决了，大部分是代码的问题。 网页icon的问题：在head文件下修改文件名即可，而且我生成了一个“Lun”的Icon，瞬间高大上了。 头像的问题：修改了绝对路径，也就是前面加个个反斜杠就好了，但是为什么主页可以其他页面不行的原因也不是特别清楚。 导航文字的问题也解决了，主要是配置文件里面要对应到主题的文字文件名称即可，因为对应不上的时候，默认拿了西班牙文的语言包。 问题都解决了，看起来页面就很舒服了。]]></content>
       <tags>
-        <tag>hexo</tag>
         <tag>log</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -14,8 +14,8 @@
     <url>%2F2018%2F08%2F02%2Ffindquestion%2F</url>
     <content type="text"><![CDATA[¶有点激动 就在几个小时之前提出的问题，似乎在一个个的解决，这种感觉很爽，爽到我很想解决了再回家，虽然现在七点多了。 导航问题找到了，也解决了。 社交链接的问题也找到了，解决了。 现在就剩下那个头像问题和icon问题，但是刚才在修改导航的时候发现了一点端倪，就是我修改了nav这个文件夹的导航，发现只有首页的部分发生了改变，切换到其他导航的时候，删除的导航还存在！这就证明这是分开的四个页面，那么如何将这四个页面统一关联起来呢？ 留到明天再看看吧。]]></content>
       <tags>
-        <tag>hexo</tag>
         <tag>log</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -26,8 +26,8 @@
         <category>Hexo</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
         <tag>log</tag>
+        <tag>hexo</tag>
         <tag>learning</tag>
       </tags>
   </entry>
