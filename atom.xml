@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://alun.pro/"/>
-  <updated>2018-08-03T08:42:10.204Z</updated>
+  <updated>2018-08-06T09:25:45.533Z</updated>
   <id>http://alun.pro/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>传统产品与互联网产品的感触</title>
+    <link href="http://alun.pro/2018/08/06/chuantongchanpin-and-hulianwangchanpin/"/>
+    <id>http://alun.pro/2018/08/06/chuantongchanpin-and-hulianwangchanpin/</id>
+    <published>2018-08-06T09:03:59.000Z</published>
+    <updated>2018-08-06T09:25:45.533Z</updated>
+    
+    <content type="html"><![CDATA[<p>从事跨境电商这段时间下来，有一些很深刻的感触，其中一个就是传统行业的产品和互联网所说的产品的确存在深刻的差异。</p><p>当然，我说的不是形态上的差异，我知道这句是一句废话，传统的产品比如桌子凳子和互联网的APP网页当然差异巨大啦，从形态上就不一样。我感触深刻的是在生产过程中以及传统产品的限制。</p><p>做跨境电商就必须要接触供应链，接触供应链就要接触产品的产生过程，我原来是做互联网产品的，互联网产品从idea的产生到实现最快能只需要1天，但是一个传统的产品从idea到批量生产是需要一个复杂并且无可避免的过程，互联网产品的边际成本为0，传统产品的边际成本无限。</p><p>习惯互联网的思维方式进入供应链才发现，我不可能要求供应链帮我去快速迭代产品或者做所谓的MVP产品，因为生产传统产品是需要成本的，无论是物料成本还是时间成本，根本无法做到响应客户需求的快速迭代，即时响应。</p><p>传统产品用户使用的时候，我们无法动态的调整产品的外观和核心功能，但是互联网产品可以。</p><p>太多太多的差异。</p><p>所以我现在很能理解为什么传统行业很难互联网化，的确传统行业的那种产品思维与互联网是有不同的，也是无法转化为互联网的模式的。</p><p>心情乱糟糟的，先这样，以后有时间再完整整理。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;从事跨境电商这段时间下来，有一些很深刻的感触，其中一个就是传统行业的产品和互联网所说的产品的确存在深刻的差异。&lt;/p&gt;
+&lt;p&gt;当然，我说的不是形态上的差异，我知道这句是一句废话，传统的产品比如桌子凳子和互联网的APP网页当然差异巨大啦，从形态上就不一样。我感触深刻的是在生产
+      
+    
+    </summary>
+    
+    
+      <category term="product manager" scheme="http://alun.pro/tags/product-manager/"/>
+    
+      <category term="跨境电商" scheme="http://alun.pro/tags/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/"/>
+    
+  </entry>
   
   <entry>
     <title>在PMCAFF回答了一个关于交通的问题</title>
